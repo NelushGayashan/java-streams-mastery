@@ -4,7 +4,7 @@
 
 ---
 
-> **Companion repo:** [github.com/yourhandle/java-streams-mastery](https://github.com/yourhandle/java-streams-mastery)
+> **Companion repo:** [github.com/NelushGayashan/java-streams-mastery](https://github.com/NelushGayashan/java-streams-mastery)
 > All code in this article is in that repo, fully runnable, with extensive inline comments.
 
 ---
@@ -780,6 +780,6 @@ Streams are one of the best-designed APIs in the Java standard library. The more
 
 ---
 
-*All code available at [github.com/yourhandle/java-streams-mastery](https://github.com/yourhandle/java-streams-mastery). Java 17+ required.*
+*All code available at [github.com/NelushGayashan/java-streams-mastery](https://github.com/NelushGayashan/java-streams-mastery). Java 17+ required.*
 
 *If this was useful, a clap or comment helps others find it.*
