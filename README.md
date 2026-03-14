@@ -121,7 +121,7 @@ mvn test
 ## Article
 
 Read the full article on Medium:
-[Java Streams: From forEach to Production-Grade Pipelines](https://medium.com/@yourhandle/java-streams-production-guide)
+[Java Streams: From forEach to Production-Grade Pipelines](https://medium.com/@nelushgayashan/java-streams-from-foreach-to-production-grade-pipelines-8e3ae6df5f15)
 
 ---
 
